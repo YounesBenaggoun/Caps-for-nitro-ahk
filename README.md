@@ -41,3 +41,57 @@ Ouvre le fichier `.ahk` avec un éditeur de texte.
 Exemple :
 ```ahk
 ^!n::Run notepad.exe
+
+
+Légende des touches
+
+^ → Ctrl
+
+! → Alt
+
+# → Touche Windows
+
++ → Shift
+
+
+
+▶️ Lancer le script au démarrage de Windows
+
+Appuyer sur Win + R
+
+Taper :
+
+shell:startup
+
+
+Copier le fichier .ahk dans ce dossier
+
+
+
+🛑 Arrêter le script
+
+Clic droit sur l’icône H dans la barre des tâches
+
+Cliquer sur Exit
+
+📄 Licence
+
+Projet personnel – utilisation libre.
+Tu peux modifier et redistribuer ce script selon tes besoins.
+
+✨ Notes
+
+Tester les raccourcis un par un pour éviter les conflits
+
+Éviter les raccourcis déjà utilisés par Windows ou d’autres applications
+
+Les raccourcis sont globaux (actifs dans toutes les applications)
+
+
+
+Si tu veux, je peux aussi :
+- adapter ce README **exactement à ton script**
+- écrire une version **GitHub plus pro**
+- ou te générer un **template de script AHK commenté**
+
+Dis-moi 👍
