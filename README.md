@@ -2,6 +2,8 @@
 
 Ce projet contient un script **AutoHotkey (AHK)** permettant de personnaliser des raccourcis clavier sous Windows afin d’automatiser des actions courantes et améliorer la productivité.
 
+--- 
+--- 
 ---
 
 ## 📌 Prérequis
